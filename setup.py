@@ -8,6 +8,6 @@ setup(
   author_email = 'cmartinez@conicet.gov.ar',
   url = 'https://github.com/israelmarti/DeFCo', # use the URL to the github repo
   download_url = 'https://github.com/israelmarti/DeFCo/tarball/0.1', # I'll explain this in a second
-  keywords = ['AutomaticApiRest', 'Connector'], # arbitrary keywords
+  keywords = ['astronomy', 'spectroscopy'], # arbitrary keywords
   classifiers = [],
 )
